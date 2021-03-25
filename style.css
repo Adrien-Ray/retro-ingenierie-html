@@ -1,3 +1,11 @@
 .border-ad{
     border:1px dotted red;
 }
+#btn-kontact{
+    background-color: orange;
+    /*color:red;*/
+    border-color: 2px solid black;
+}
+#btn-kontact:hover{
+    background-color: red;
+}
