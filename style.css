@@ -1,11 +1,17 @@
 .border-ad{
     border:1px dotted red;
 }
-#btn-kontact{
-    background-color: orange;
-    /*color:red;*/
-    border-color: 2px solid black;
+.logoimg{
+    width:200px;
 }
-#btn-kontact:hover{
-    background-color: red;
+.navbar-nav{
+    text-align:right;
+    margin:auto;
+    color:navy;
+}
+.blueborder{
+
+}
+.loginpng{
+    height:1em;
 }
