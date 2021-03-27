@@ -7,11 +7,25 @@
 .navbar-nav{
     text-align:right;
     margin:auto;
-    color:navy;
+}
+.navbar-light .navbar-nav .nav-link {
+    /*color: rgba(0,0,0,.55);*/
+    color:rgb(0, 0, 65);
 }
 .blueborder{
-
+    border:1px solid #2F70FE;
 }
 .loginpng{
-    height:1em;
+    height:0.9em;
+    margin-right:3px;
+}
+a.nav-link{
+    padding:0.5em;
+    margin-left:1.5em;
+}
+.contain-adr{
+    background-color: transparent;
+}
+.bg-light {
+    background-color: transparent !important;
 }
