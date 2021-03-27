@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,20 +11,29 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <main class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button id="btn-kontact" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+<main class="container-fluid">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <img src="logo.png" alt="" class="logoimg"> <!-- LOGO ENTREPRISE -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="#">Home</a>
-        <a class="nav-link" href="#">Features</a>
-        <a class="nav-link" href="#">Pricing</a>
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="#">Integration</a>
+          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link" href="#">Compagny</a>
+          <a class="nav-link" href="#">Blog</a>
+          <a class="nav-link blueborder" href="#">Get a demo</a>
+          <a class="nav-link" href="#"><img src="user.png" alt="" class="loginpng">Login</a>
+          <!--
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          -->
+        </div>
       </div>
     </div>
-  </div>
-</nav>
+  </nav>
