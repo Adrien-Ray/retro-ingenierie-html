@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<main class="container-fluid contain-adr">
+<main class="container-fluid">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
       <img src="logo.png" alt="" class="logoimg"> <!-- LOGO ENTREPRISE -->
