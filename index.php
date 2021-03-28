@@ -2,6 +2,7 @@
 
 <!-- DIV BLEU -->
 <div class="zoneblue">
+    <!-- ici insertion img position absolute (+divbleu = position relative) et z-index -->
     <div class="container-fluid">   
         <div class="row">
             <div class="col-md-3 col-sm-1 border-ad"></div>
