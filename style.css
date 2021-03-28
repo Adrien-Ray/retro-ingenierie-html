@@ -67,4 +67,15 @@ a.nav-link{
       text-align:center;
       color:white;
       font-size: 1.1em;
+      margin-bottom: 2em;;
+  }
+  p.button-zonebleu{
+    text-align:center;
+  }
+  a.button-zonebleu{
+      background-color: black;
+      color:white;
+      padding: 0.9em 1.1em;
+      text-decoration: none;
+      font-weight: 500;
   }
