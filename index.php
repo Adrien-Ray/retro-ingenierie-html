@@ -62,26 +62,30 @@
                 </div>
                 <div class="row"> 
                     <div class="col-md-12 col-sm-12 contentline2">
-                        <H2 class="contentline"></H2>
-                        <p class="contentline"></p>
+                        <H2 class="contentline">Become the vendor everyone wants to buy from</H2>
+                        <p class="contentline">Gain brand authority and visibility with the help of the largest IT service ecosystem. Find customers who are looking for your solution right now!</p>
+                        <p class="singup"><a href="#">Singup now -></a></p>
                     </div>
                 </div>
                 <div class="row"> 
                     <div class="col-md-12 col-sm-12 contentline3">
-                        <H2 class="contentline"></H2>
-                        <p class="contentline"></p>
+                        <H2 class="contentline">It’s like having Your best Salesman on autopilot</H2>
+                        <p class="contentline">Share collaterals and documents that are automatically branded. Leverage a rich partner network that sells your solution exactly the way your best salesman would.</p>
+                        <p class="singup"><a href="#">Singup now -></a></p>
                     </div>
                 </div>
                 <div class="row"> 
                     <div class="col-md-12 col-sm-12 contentline4">
-                        <H2 class="contentline"></H2>
-                        <p class="contentline"></p>
+                        <H2 class="contentline">Track your channel performance</H2>
+                        <p class="contentline">Monitor the health and revenue of your channel program and streamline your campaign to win more customers within Zomentum.</p>
+                        <p class="singup"><a href="#">Singup now -></a></p>
                     </div>
                 </div>
                 <div class="row"> 
                     <div class="col-md-12 col-sm-12 contentline5">
-                        <H2 class="contentline"></H2>
-                        <p class="contentline"></p>
+                        <H2 class="contentline">Get The best version of Your sales playbook</H2>
+                        <p class="contentline">Gather insights about top channel sellers and find out what pitch and collaterals ensure maximum profitability. Win happy customers with an optimized sales playbook.</p>
+                        <p class="singup"><a href="#">Singup now -></a></p>
                     </div>
                 </div>
             </div>
@@ -89,48 +93,6 @@
     </div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <!-- FIN CONTENTFLUID -->
 
 
