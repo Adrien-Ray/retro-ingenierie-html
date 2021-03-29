@@ -1,4 +1,11 @@
-
+.barfixed{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: white !important;
+    z-index: 2;
+    padding-bottom: 1em;
+}
 .logoimg{
     width:200px;
 }
@@ -25,10 +32,14 @@ a.nav-link{
     background-color: transparent;
 }
 .bg-light {
-    background-color: transparent !important;
+    background-color: transparent;
 }
 .zoneblue{
-    background:#2f70fe;
+    background:#2f70fe;/*
+    background-image: url("back-blue1.png"); mettre en transpa via css ou gimp 
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom 0 left 1em;*/
 }
 .zoneblue2{
     position: relative;
@@ -79,3 +90,82 @@ a.nav-link{
       text-decoration: none;
       font-weight: 500;
   }
+  .back-img{
+      max-width:100%;
+      max-height: 250px;
+      position:relative;
+    bottom:0;
+  }
+  .centerback{
+      text-align: center;
+  }
+  .content h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 3em;
+    color:black;
+  }
+  .back-fix-left, .back-fix-right{
+    position:fixed;
+    max-width:10%;
+    top:60%;
+    left:0;
+    margin:2em;
+    z-index:-2;
+  }
+  .back-fix-right{
+    left:85%;
+    top:10%;
+  }
+  .cardlistshellgrow{
+      text-align: center;
+      padding:2em;
+  }
+  .cardlistshellgrow img{
+      width:10em;
+  }
+  .cardlistshellgrow p{
+      margin-top: 2em;
+      font-size: 1.2em;
+      font-weight: 600;
+  }
+  /* DEBUT CODE DE CONTENT SOUS LIST SHELL GROW */
+  .contentline1,
+  .contentline2,
+  .contentline3,
+  .contentline4,
+  .contentline5{
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    border: 1px solid red;
+    padding:4em 0;
+  }
+  .contentline1{
+      background-image: url("pictures/back-section-1-opacity60.png");
+      background-position: right;
+  }
+  .contentline2{
+      background-image: url("pictures/back-section-2-opacity60.png");
+      background-position: left;
+      text-align: right;
+  }
+  .contentline3{
+      background-image: url("pictures/back-section-3-opacity60.png");
+      background-position: right;
+  }
+  .contentline4{
+      background-image: url("pictures/back-section-4-opacity60.png");
+      background-position: left;
+      text-align: right;
+  }
+  .contentline5{
+      background-image: url("pictures/back-section-5-opacity60.png");
+      background-position: right;
+  }
+  h2.contentline{
+  }
+  p.contentline{
+      font-weight: 600;
+      width:80%;
+  }
+    /* FIN CODE DE CONTENT SOUS LIST SHELL GROW */
