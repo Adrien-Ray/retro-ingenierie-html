@@ -12,7 +12,7 @@
 </head>
 <body>
 <main class="container-fluid">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light barfixed">
     <div class="container-fluid">
       <img src="logo.png" alt="" class="logoimg"> <!-- LOGO ENTREPRISE -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
