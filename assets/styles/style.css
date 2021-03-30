@@ -149,19 +149,19 @@ a.button-zonebleu {
 	text-align: right;
 }
 .contentline1 {
-	background-image: url("pictures/back-section-1-opacity60.png");
+	background-image: url("../pictures/back-section-1-opacity60.png");
 }
 .contentline2 {
-	background-image: url("pictures/back-section-2-opacity50.png");
+	background-image: url("../pictures/back-section-2-opacity50.png");
 }
 .contentline3 {
-	background-image: url("pictures/back-section-3-opacity50.png");
+	background-image: url("../pictures/back-section-3-opacity50.png");
 }
 .contentline4 {
-	background-image: url("pictures/back-section-4-opacity50.png");
+	background-image: url("../pictures/back-section-4-opacity50.png");
 }
 .contentline5 {
-	background-image: url("pictures/back-section-5-opacity50.png");
+	background-image: url("../pictures/back-section-5-opacity50.png");
 }
 h2.contentline,
 p.contentline {
