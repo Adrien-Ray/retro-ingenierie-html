@@ -1,4 +1,4 @@
-<?php include "header.php" ; ?>
+<?php include "header.php"; ?>
 
 
 
@@ -8,9 +8,9 @@
 
 <div class="zoneblue">
     <!-- ici insertion img position absolute (+divbleu = position relative) et z-index -->
-    
-    
-    <div class="container-fluid">   
+
+
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-3 col-sm-1 border-ad centerback"><img src="pictures/img-blue-left-opacity100.png" alt="" class="back-img blueleft"></div>
             <div class="col-md-6 col-sm-10 border-ad">
@@ -36,11 +36,11 @@
 
 
 <div class="container">
-    <div class="row"> 
+    <div class="row">
         <div class="col-md-12 col-sm-12 content">
             <h1>List. Sell. Grow</h1>
             <div class="container-fluid">
-                <div class="row"> 
+                <div class="row">
                     <div class="col-md-4 col-sm-12 cardlistshellgrow">
                         <img src="pictures/logo-shell-1.png" alt="" class="">
                         <p>Be a part of the only All-In-One platform for IT services</p>
@@ -54,34 +54,34 @@
                         <p>Grow your business with a single click</p>
                     </div>
                 </div>
-                <div class="row"> 
+                <div class="row">
                     <div class="col-md-12 col-sm-12 contentline1">
-                        <H2 class="contentline">Your channel program  on steroids</H2>
+                        <H2 class="contentline">Your channel program on steroids</H2>
                         <p class="contentline">Tired of finding MSPs that can help you boost your channel sales? You’re in luck, because they’re all here.</p>
                     </div>
                 </div>
-                <div class="row"> 
+                <div class="row">
                     <div class="col-md-12 col-sm-12 contentline2">
                         <H2 class="contentline">Become the vendor everyone wants to buy from</H2>
                         <p class="contentline">Gain brand authority and visibility with the help of the largest IT service ecosystem. Find customers who are looking for your solution right now!</p>
                         <p class="singup"><a href="#">Singup now -></a></p>
                     </div>
                 </div>
-                <div class="row"> 
+                <div class="row">
                     <div class="col-md-12 col-sm-12 contentline3">
                         <H2 class="contentline">It’s like having Your best Salesman on autopilot</H2>
                         <p class="contentline">Share collaterals and documents that are automatically branded. Leverage a rich partner network that sells your solution exactly the way your best salesman would.</p>
                         <p class="singup"><a href="#">Singup now -></a></p>
                     </div>
                 </div>
-                <div class="row"> 
+                <div class="row">
                     <div class="col-md-12 col-sm-12 contentline4">
                         <H2 class="contentline">Track your channel performance</H2>
                         <p class="contentline">Monitor the health and revenue of your channel program and streamline your campaign to win more customers within Zomentum.</p>
                         <p class="singup"><a href="#">Singup now -></a></p>
                     </div>
                 </div>
-                <div class="row"> 
+                <div class="row">
                     <div class="col-md-12 col-sm-12 contentline5">
                         <H2 class="contentline">Get The best version of Your sales playbook</H2>
                         <p class="contentline">Gather insights about top channel sellers and find out what pitch and collaterals ensure maximum profitability. Win happy customers with an optimized sales playbook.</p>
@@ -96,4 +96,4 @@
 <!-- FIN CONTENTFLUID -->
 
 
-<?php include "footer.php" ; ?>
+<?php include "footer.php"; ?>
