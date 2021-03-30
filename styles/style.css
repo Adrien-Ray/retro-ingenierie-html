@@ -21,7 +21,6 @@ a {
 	margin: auto;
 }
 .navbar-light .navbar-nav .nav-link {
-	/*color: rgba(0,0,0,.55);*/
 	color: rgb(0, 0, 65);
 }
 .blueborder {
@@ -42,11 +41,7 @@ a.nav-link {
 	background-color: transparent;
 }
 .zoneblue {
-	background: #2f70fe; /*
-    background-image: url("back-blue1.png"); mettre en transpa via css ou gimp 
-    background-repeat: no-repeat;
-    background-size: 200px;
-    background-position: bottom 0 left 1em;*/
+	background: #2f70fe;
 }
 .zoneblue2 {
 	position: relative;
