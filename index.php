@@ -1,4 +1,4 @@
-<?php include "assets/includes/header.php"; ?>
+<?php include "includes/header.php"; ?>
 
 
 
@@ -96,4 +96,4 @@
 <!-- FIN CONTENTFLUID -->
 
 
-<?php include "assets/includes/footer.php"; ?>
+<?php include "includes/footer.php"; ?>
