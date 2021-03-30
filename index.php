@@ -12,13 +12,13 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-3 col-sm-1 border-ad centerback"><img src="pictures/img-blue-left-opacity100.png" alt="" class="back-img blueleft"></div>
+            <div class="col-md-3 col-sm-1 border-ad centerback"><img src="pictures/img-blue-left-opacity100.png" alt="deux personnes se serrant la main" class="back-img blueleft"></div>
             <div class="col-md-6 col-sm-10 border-ad">
                 <h1 class="h1-blue">Find the right partners to fuel your business growth</h1>
                 <p class="p-bluezone">Join a vibrant community of MSPs to forge long-lasting relationships with partners that help you create excellent customer experiences</p>
                 <p class="button-zonebleu"><a href="#" class="button-zonebleu">Register today</a></p>
             </div>
-            <div class="col-md-3 col-sm-1 border-ad centerback"><img src="pictures/img-blue-right-opacity100.png" alt="" class="back-img blueright"></div>
+            <div class="col-md-3 col-sm-1 border-ad centerback"><img src="pictures/img-blue-right-opacity100.png" alt="une personne s'enrichissant" class="back-img blueright"></div>
         </div>
     </div>
 </div>
@@ -27,10 +27,10 @@
 
 <!-- FIN DIV BLEU -->
 
-
-<img src="pictures/back-titre-shell.png" alt="" class="back-fix-left">
-<img src="pictures/back-titre-shell.png" alt="" class="back-fix-right">
-
+<div class="backfix">
+    <img src="pictures/back-titre-shell.png" alt="decoration" class="back-fix-left">
+    <img src="pictures/back-titre-shell.png" alt="decoration" class="back-fix-right">
+</div>
 
 <!-- CONTENTFLUID -->
 
@@ -42,15 +42,15 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-4 col-sm-12 cardlistshellgrow">
-                        <img src="pictures/logo-shell-1.png" alt="" class="">
+                        <img src="pictures/logo-shell-1.png" alt="logo Be a part of the only All-In-One platform for IT services" class="">
                         <p>Be a part of the only All-In-One platform for IT services</p>
                     </div>
                     <div class="col-md-4 col-sm-12 cardlistshellgrow">
-                        <img src="pictures/logo-shell-2.png" alt="" class="">
+                        <img src="pictures/logo-shell-2.png" alt="logo Come closer to finding your next customer" class="">
                         <p>Come closer to finding your next customer</p>
                     </div>
                     <div class="col-md-4 col-sm-12 cardlistshellgrow">
-                        <img src="pictures/logo-shell-3.png" alt="" class="">
+                        <img src="pictures/logo-shell-3.png" alt="logo Grow your business with a single click" class="">
                         <p>Grow your business with a single click</p>
                     </div>
                 </div>
