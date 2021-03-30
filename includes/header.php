@@ -26,7 +26,7 @@
           <a class="nav-link" href="#">Compagny</a>
           <a class="nav-link" href="#">Blog</a>
           <a class="nav-link blueborder" href="#">Get a demo</a>
-          <a class="nav-link" href="#"><img src="user.png" alt="user" class="loginpng">Login</a>
+          <a class="nav-link" href="#"><img src="icons/user.png" alt="user" class="loginpng">Login</a>
         </div>
       </div>
     </div>
