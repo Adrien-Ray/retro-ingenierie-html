@@ -11,4 +11,4 @@
 - mockup version mobile (photoshop).
 - " intégrez les deux maquettes en mode responsive design en HTML / CSS / Bootstrap et en publiant le code sur Github, sans oublier de créditer l'auteur de la Landing Page, et en choisissant une licence adaptée "
 ## preview maquette d'origine
-![miniature]( point-de-depart-miniature.png )
+![miniature]( point-de-depart-miniature.png )# wordpress-theme-test-retro-ingenierie
